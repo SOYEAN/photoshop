@@ -29,3 +29,10 @@
 
 
 ## 선택영역 없애기 --> ctrl + D
+
+
+## 레이어 마스크 
+![image](https://github.com/SOYEAN/photoshop/assets/145514499/c2b7552f-0b4b-4d35-8538-40f1afb87f5c)
+
+
+## alt + 레이어 마스크를 클릭하면 반전으로 나오고, 이미 만들어진 레이어 마스크의 칼라를 반전 시킬려면 ctrl + i 
